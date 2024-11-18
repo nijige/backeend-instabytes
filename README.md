@@ -1,22 +1,28 @@
-# :computer: IMERSÃO BACKEEND
+# 💻 **IMERSÃO BACKEND**
 
-## Comandos
+Este projeto é uma introdução prática ao desenvolvimento backend com Node.js e Express.
 
-## criar o Projeto :arrow_forward:
+---
 
-```
+## 🚀 **Comandos Essenciais**
+
+### 🛠️ **Criar o Projeto**  
+Execute o comando abaixo para iniciar o projeto com suporte a ES6:
+
+```bash
 npm init es6 -y
-```
 
-## Instalar Depedências
-
-```
+📦 Instalar Dependências
+Adicione o Express ao projeto:
 npm install express
-```
 
-## Rodar o Projeto :arrow_forward:
+▶️ Rodar o Projeto
+Inicie o servidor com:
 
-```
 node server.js
-```
+
+📦 imersao-backend
+ ┣ 📜 server.js
+ ┗ 📜 package.json
+
 
