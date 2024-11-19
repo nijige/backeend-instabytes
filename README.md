@@ -20,6 +20,8 @@ npm install express
 Inicie o servidor com:
 
 node server.js
+ou
+node --watch server.js 
 
 📦 imersao-backend
  ┣ 📜 server.js
